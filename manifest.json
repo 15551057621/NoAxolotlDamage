@@ -1,0 +1,13 @@
+{
+    "entry": "index.js",
+    "name": "NoAxolotlDamage",
+    "type": "lse-quickjs",
+    "version": "1.0.0",
+    "author": "冰凌呀",
+    "description": "防止美西螈攻击鱼",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        }
+    ]
+}
